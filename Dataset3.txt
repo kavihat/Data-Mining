@@ -1,0 +1,20 @@
+Apple,Grapes,Banana,Milk
+Bread,Jam,Milk,Butter,Chicken
+Apple,Chicken,Tea,Sugar
+Milk,Tea,Coffee,Oil
+Oil,Carrots,Beef
+Beef,Bread,Apple
+Camera,MobilePhone,charger
+MobilePhone,Charger,Headset
+TV,Speaker,CD Player
+TV,Chips,PopCorn
+Camera,PopCorn,Charger
+Apple,grape
+Apple,Bread,Butter
+Bread,Butter,Jam,Milk
+Milk,Tea,Coffee
+screen protector,shoe,MobilePhone
+detergent,moisturizer,Shampoo,tissue
+Shampoo,tissue
+Shampoo,shoe,MobilePhone
+Moisturizer,sanitizer,tissue
